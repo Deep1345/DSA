@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/deep/Desktop/DSA/Arrays/Easy",
-      "program": "/Users/deep/Desktop/DSA/Arrays/Easy/build/Debug/outDebug"
+      "cwd": "/Users/deep/Desktop/DSA/Arrays/medium",
+      "program": "/Users/deep/Desktop/DSA/Arrays/medium/build/Debug/outDebug"
     }
   ]
 }
